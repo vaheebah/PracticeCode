@@ -1,5 +1,5 @@
 package com.oop.lab.inheritance;
-
+// this is teh first class of test class
 class Circle {
     private String color;
     public String getColor() {
